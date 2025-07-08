@@ -199,3 +199,37 @@ width: 267px;
     gap: 24px;
     margin-top: 50px;
 }
+/* resume */
+.degree{
+    font-weight: bold;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+.university{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.description{
+    width: 511px;
+    margin-bottom: 30px;
+}
+hr{
+    color: #D1D1D1;
+    width: 558px;
+    margin-bottom: 30px;
+}
+.resume-title{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.flex{
+    display: flex;
+    gap: 24px;
+}
+.cv-btn{
+    margin-top: 50px;
+    display: block;
+    margin:auto
+}
