@@ -233,3 +233,64 @@ hr{
     display: block;
     margin:auto
 }
+/* footer */
+.bg-footer{
+    width: 100%;
+    margin-top: 130px;
+
+}
+.ft-title{
+    font-weight: bold;
+    font-size: 35px;
+    margin-bottom: 21px;
+}
+.ft-des{
+    width: 562px;
+    margin-bottom: 21px;
+
+}
+.ft-icons{
+    display: flex;
+    gap: 24px;
+}
+input {
+    width: 461px;
+    height: 64px;
+    border: none;
+    padding: 18px 0 18px 30px;
+    font-size: 16px;
+    border-radius: 5px;
+}
+textarea{
+    width: 461px;
+    border: none;
+    padding: 18px 0 0 30px;
+    font-size: 16px;
+     border-radius: 5px;
+
+}
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+.submit{
+     font-weight: bold;
+    color: white;
+    background-color: #FD6E0A;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 18px 35px;
+    width: 150px;
+
+}
+.flex2{
+    display: flex;
+    justify-content: space-between;
+    gap: 100px;
+    padding: 130px 200px;
+}
+#phone{
+    color: #FD6E0A;
+}
